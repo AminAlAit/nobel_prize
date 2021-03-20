@@ -21,4 +21,4 @@ In this notebook, I will be using the following packages:
 2.    tidyverse
 3.    ggplot2
 
-![](/images/nobel.png)
+![](/images/nobel.jpg)
