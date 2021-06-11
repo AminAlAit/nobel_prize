@@ -1,6 +1,6 @@
-## [Nobel Prize Winners](https://github.com/AminAlAit/nobel_prize)
+## [Nobel Prize Winners](https://github.com/AminAlAit/nobel_prize/blob/main/notebook.ipynb)
 
-### [A Visual History & Analysis](https://github.com/AminAlAit/nobel_prize)
+### [A Visual History & Analysis](https://github.com/AminAlAit/nobel_prize/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
